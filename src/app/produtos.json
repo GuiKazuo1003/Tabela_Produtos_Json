@@ -1,0 +1,9 @@
+{
+    "produtos" : [
+        {"id" : 1 , "name" : "Maça", "tipo" : "Fruta", "quantidade" : 100 , "preco" : 3},
+        {"id" : 2 , "name" : "Pêra", "tipo" : "Fruta", "quantidade" : 80 , "preco" : 4},
+        {"id" : 3 , "name" : "Banana", "tipo" : "Fruta", "quantidade" : 85 , "preco" : 5},
+        {"id" : 4 , "name" : "Couve", "tipo" : "Verdura", "quantidade" : 50 , "preco" : 2.50},
+        {"id" : 5 , "name" : "Brocolis", "tipo" : "Verdura", "quantidade" : 35 , "preco" : 4.50}
+    ]
+}
